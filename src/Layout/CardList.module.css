@@ -1,0 +1,23 @@
+.card {
+  width: 15rem;
+  height: 15rem;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+
+.title {
+  margin-left: 1.5rem;
+  display: inline-block;
+}
+
+.button {
+  margin-left: 3.5rem;
+  border-radius: 0.2rem;
+  border-style: none;
+  height: 1.5rem;
+}
+
+.paragraph {
+  margin-top: 9rem;
+  text-align: center;
+}

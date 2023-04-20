@@ -1,0 +1,15 @@
+.addcard {
+  background-color: lightgray;
+  width: 15rem;
+  height: 15rem;
+  margin: 1rem;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+.button {
+  margin-top: 5.8rem;
+  border-style: none;
+  font-size: 2rem;
+  background-color: lightgray;
+}
